@@ -4,4 +4,5 @@ import ThumbsUpGesture from './ThumbsUp';
 export {
   VictoryGesture,
   ThumbsUpGesture,
+  okGesture,
 }
